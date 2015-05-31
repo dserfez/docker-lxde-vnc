@@ -1,4 +1,5 @@
 #!/bin/bash
+/usr/sbin/pipework --wait -i eth0
 mkdir /var/run/sshd
 if [ ! -f /root/.vnc/passwd ]
 then

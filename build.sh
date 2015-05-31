@@ -1,4 +1,4 @@
 #!/bin/bash
-docker build --rm -t sidirius/docker-lxde-vnc .
+docker build --rm -t cycomf/docker-lxde-vnc .
 
 
